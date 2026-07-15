@@ -51,6 +51,13 @@ Some of my most recently active repositories:
 - 🔗 LinkedIn: [linkedin.com/in/maedot-demelash-1385a8241](http://www.linkedin.com/in/maedot-demelash-1385a8241)
 - ✉️ Email: [madotdemelash664@gmail.com](mailto:madotdemelash664@gmail.com)
 
+## Latest Posts
+
+{% raw %}
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+{% endraw %}
 ---
 
 Thanks for stopping by — always happy to connect and talk shop! 😊
