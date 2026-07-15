@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Go Language"
-date: 2026-07-15
+date: 2026-07-15 12:00:00 +0000
+categories: programming go
 ---
 
 # Go Language Fundamentals: From Beginner to Advanced
