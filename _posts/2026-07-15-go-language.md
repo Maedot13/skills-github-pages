@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Go Language"
 date: 2026-07-15
 ---
